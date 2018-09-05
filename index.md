@@ -1,3 +1,4 @@
+# Thomas's first CS193 Lab
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -17,6 +18,9 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- CS193 is run by undergrads
+- CS193 is going to help me become better at CS
+- CS193 doesn't have a final
 
 1. Numbered
 2. List
